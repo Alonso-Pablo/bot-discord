@@ -1,8 +1,5 @@
 node_modules
 .env
-config.json
 commands.txt
 datosDelChat.txt
-
-./src/config.js
-/src/config.js
+responsesBot.js
